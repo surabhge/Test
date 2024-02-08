@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/aravindbalaji/IdeaProjects/TestNgWithMaven/src/test/java/testpacktestng/DemoTest1.java">
+        <classes>
+            <class name="testpacktestng.DemoTest1">
+                <methods>
+                    <include name="testcase1"/>
+                    <include name="testcase2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
