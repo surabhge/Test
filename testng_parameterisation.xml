@@ -5,7 +5,7 @@
     <test name="Test">
         <parameter name="data2" value="test2" />
         <classes>
-            <class name="dataproviderarraydemo.DataproviderArrayTestDemo" />
+            <class name="parameterisationdemo.DemoTestParameterisation" />
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
